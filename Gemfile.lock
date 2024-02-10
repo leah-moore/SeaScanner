@@ -23,6 +23,7 @@ GEM
     commonmarker (0.23.10)
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
+    csv (1.0.2)
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
     drb (2.2.0)
@@ -38,6 +39,7 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
+    faraday-retry (1.0.3)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -272,6 +274,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  csv (~> 1.0)
+  faraday-retry (~> 1.0)
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
