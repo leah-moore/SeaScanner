@@ -22,7 +22,7 @@ title: SealScanner
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Displays of our seal analysis!
-baseurl: "/SealScanner/" # the subpath of your site, e.g. /blog
+baseurl: "/SealScanner" # the subpath of your site, e.g. /blog
 url: "https://leah-moore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
