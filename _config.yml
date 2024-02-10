@@ -2,5 +2,8 @@
 
 title: SealScanner
 description: Interactive displays of our analysis process and results
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "minimal-mistakes"
+
+
+
 
