@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # Specify your Jekyll plugins in the :jekyll_plugins group
 group :jekyll_plugins do
-  gem 'jekyll', '~> 4.0'
+  gem 'jekyll', '~> 4.3.3'
   # Add other Jekyll-related gems here if needed
 end
 
