@@ -21,7 +21,7 @@
 title: SealScanner
 email: leahhcmoore@gmail.com.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the future of marine convervation! This website serves as an interactive data display of our machine learning resultsDisplays of our seal analysis!
+  Welcome to the future of marine convervation! This website serves as an interactive data display of our machine learning results
 baseurl: "/SealScanner" # the subpath of your site, e.g. /blog
 url: "https://leah-moore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
