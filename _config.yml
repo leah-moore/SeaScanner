@@ -24,8 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the future of marine convervation! This website serves as an interactive data display of our machine learning results
 baseurl: "/SealScanner" # the subpath of your site, e.g. /blog
 url: "https://leah-moore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  leah-moore
+
+author: Leah Moore
+linkedin_username: leahhcmoore
+# new fields not defaulted by jekyll - new with minima theme
+# add a copyright. a copy right symbol and year will be added automatically
+
+copyright: "SealScanner"
+
+seallogo: /images/seallogo.png
 
 # Build settings
 # removed minima theme as it is now a regular theme 
