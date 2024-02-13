@@ -4,5 +4,5 @@
 
 layout: home-MeetTheSeals
 title: "Meet the Seals"
-category: data
+category: seals
 ---

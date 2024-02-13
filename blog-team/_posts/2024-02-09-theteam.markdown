@@ -2,8 +2,8 @@
 layout: post
 title: "The Team"
 date: 2024-01-11 22:25:13 -0800
-category: data
+category: team
 ---
 
-Ya ya ya ya ya ya
+Leah Moore, Mimi Zanker, Miklos Sunario, Kingsley Moore
 

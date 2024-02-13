@@ -4,5 +4,5 @@
 
 layout: home-team
 title: "The Team"
-category: data
+category: team
 ---
