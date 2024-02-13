@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Meow meow"
+title: "Seal Measurements"
 date: 2024-01-11 22:25:13 -0800
-category: data
+category: process
+
 ---
 
-Ya ya ya ya ya ya
+
 
